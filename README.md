@@ -16,7 +16,7 @@ Build and run the application by running the following command:
 arduino
 Copy code
 ./mvnw spring-boot:run
-Open a web browser and go to http://localhost:8080/ to access the application.
+Open a web browser and go to http://localhost:2411/ to access the application.
 Features
 The application provides the following features:
 
